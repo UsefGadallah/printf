@@ -1,4 +1,4 @@
-lude "main.h"
+#include "main.h"
 
 /************************* PRINT CHAR *************************/
 
@@ -186,4 +186,3 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-
